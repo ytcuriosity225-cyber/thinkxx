@@ -13,8 +13,6 @@ yarn-error.log*
 .env*.local
 .vercel
 
-# Project specific
-web/node_modules/
-web/.next/
-web/out/
-web/build/
+# Redundant folders (Restructured to root)
+web/
+assests/
