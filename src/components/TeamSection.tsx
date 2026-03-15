@@ -33,19 +33,19 @@ const teamMembers = [
     name: "Khadija Bibi",
     role: "UGC Creator & Voiceover Artist",
     detail: "User-Generated Content Specialist",
-    photo: "/team/khadija-bibi.jfif",
+    photo: "/team/khadija-bibi.jpg",
   },
   {
     name: "Hassan Farooq",
     role: "WordPress & Web Developer",
     detail: "CMS & Web Solutions",
-    photo: "/team/hassan-farooq.jfif",
+    photo: "/team/hassan-farooq.jpg",
   },
   {
     name: "Amber Bibi",
     role: "React / Next.js Web Developer",
     detail: "Frontend Engineering",
-    photo: "/team/amber-bibi.jfif",
+    photo: "/team/amber-bibi.jpg",
   },
 ];
 

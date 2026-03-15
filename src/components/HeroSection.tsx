@@ -9,9 +9,9 @@ const teamMembers = [
   { name: "Hussain Malik", role: "Organizer", photo: "/team/hussain-malik.jpg" },
   { name: "Abdullah Saleem", role: "Social Media Manager", photo: "/team/abdullah-saleem.jpeg" },
   { name: "Azhar Mehmood", role: "D2C Operations Handler", photo: "/team/azhar-mehmood.jpg" },
-  { name: "Khadija Bibi", role: "UGC Creator & Voiceover Artist", photo: "/team/khadija-bibi.jfif" },
-  { name: "Hassan Farooq", role: "WordPress & Web Developer", photo: "/team/hassan-farooq.jfif" },
-  { name: "Amber Bibi", role: "React / Next.js Web Developer", photo: "/team/amber-bibi.jfif" },
+  { name: "Khadija Bibi", role: "UGC Creator & Voiceover Artist", photo: "/team/khadija-bibi.jpg" },
+  { name: "Hassan Farooq", role: "WordPress & Web Developer", photo: "/team/hassan-farooq.jpg" },
+  { name: "Amber Bibi", role: "React / Next.js Web Developer", photo: "/team/amber-bibi.jpg" },
 ];
 
 export default function HeroSection() {
